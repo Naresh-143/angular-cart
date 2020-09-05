@@ -1,0 +1,235 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Strong African Dog Names for a Rhodesian Ridgeback",
+      "description": "Strong African Dog Names for a Rhodesian Ridgeback",
+      "imageurl": "https://i.pinimg.com/originals/d2/14/2b/d2142b2571e286221c86f449c44c3fae.jpg",
+      "price": 40000,
+      "offerprice": 10000
+    },
+    {
+      "id": 2,
+      "name": "Tough Dog Names From England for a Bullmastiff",
+      "description": "Looking for a great name for a Bullmastiff? Here are about 70 to choose from, all authentic names from the English countryside where the Bullmastiff works.",
+      "imageurl": "https://i.pinimg.com/originals/23/fb/9f/23fb9f8b036094aba98554355b025711.jpg",
+      "price": 30000,
+      "offerprice": 12000
+    },
+    {
+      "id": 3,
+      "name": "Great Gaelic Dog Names for an Irish Wolfhound",
+      "description": "If you are looking for an authentic Irish name, here are some great choices that are easy to pronounce. These names are great for an Irish Wolfhound, Kerry Blue Terrier, Irish Setter, or another dog.",
+      "imageurl": "https://i.pinimg.com/originals/70/f6/27/70f627db89ac3de15918aabe494285a4.jpg",
+      "price": 45000,
+      "offerprice": 15000
+    },
+    {
+      "id": 4,
+      "name": "Best Names for a Border Collie",
+      "description": "Are you searching for a unique name for your new Border Collie puppy? Don't settle for the same old thing when you can find something special here.",
+      "imageurl": "https://i.pinimg.com/originals/79/35/be/7935be663b2945d4101fd012501d4da5.jpg",
+      "price": 65000,
+      "offerprice": 17000
+    },
+    {
+      "id": 5,
+      "name": "50 Cool Tibetan Dog Names for Your Lhasa Apso Puppy",
+      "description": "Looking for an authentic Tibetan name for your new Lhasa Apso puppy? Check out this list of 50 names and pick one that suits your pup!",
+      "imageurl": "https://i.pinimg.com/originals/84/69/be/8469be773ac5b53034d8c8c4d07ac642.jpg",
+      "price": 23000,
+      "offerprice": 16000
+    },
+    {
+      "id": 6,
+      "name": "Unique Dog Names for a Pug",
+      "description": "Tired of all those overused names? Do you want your Pug to stand out on the first day of school? Pick a unique name for your unique little puppy.",
+      "imageurl": "https://i.pinimg.com/originals/27/74/ff/2774ff7f4fc21f79a6265905e95eee42.jpg",
+      "price": 72000,
+      "offerprice": 19000
+    },
+    {
+      "id": 7,
+      "name": "50 Cool Tibetan Dog Names for Your Lhasa Apso Puppy",
+      "description": "Looking for an authentic Tibetan name for your new Lhasa Apso puppy? Check out this list of 50 names and pick one that suits your pup!",
+      "imageurl": "https://i.pinimg.com/originals/84/69/be/8469be773ac5b53034d8c8c4d07ac642.jpg",
+      "price": 76000,
+      "offerprice": 15000
+    },
+    {
+      "id": 8,
+      "name": "How to Groom a Dog at Home (For Beginners)",
+      "description": "Keeping your dogs hair short or well groomed is not only good for your dog, it's also good for keeping your house and yard clean. Here's how to cut dog hair.",
+      "imageurl": "https://i.pinimg.com/originals/89/fb/7d/89fb7df6c9860983478fb15f116d6b1d.png",
+      "price": 77000,
+      "offerprice": 19000
+    },
+    {
+      "id": 9,
+      "name": "Cool Authentic Russian Names for a Siberian Husky Dog",
+      "description": "Are you searching for the best name for your new Siberian Husky? Here are some special names from Siberia that any dog would be proud to own.",
+      "imageurl": "https://i.pinimg.com/originals/97/9e/81/979e8127ba8b2eaad6bf6a20d6cb53df.jpg",
+      "price": 78000,
+      "offerprice": 18000
+    },
+    {
+      "id": 10,
+      "name": "28 Caturday Memes That Will Have You Rolling On Your Belly",
+      "description": "28 Caturday Memes That Will Have You Rolling On Your Belly (Preferably In The Sun) In Pure Joy - World's largest collection of cat memes and other animals",
+      "imageurl": "https://i.pinimg.com/originals/d4/ab/6f/d4ab6f32ce3fd4cd447a9155b9fb9c51.png",
+      "price": 88000,
+      "offerprice": 17000
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 1,
+        "name": "Strong African Dog Names for a Rhodesian Ridgeback",
+        "description": "Strong African Dog Names for a Rhodesian Ridgeback",
+        "imageurl": "https://i.pinimg.com/originals/d2/14/2b/d2142b2571e286221c86f449c44c3fae.jpg",
+        "price": 40000,
+        "offerprice": 10000
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Strong African Dog Names for a Rhodesian Ridgeback",
+        "description": "Strong African Dog Names for a Rhodesian Ridgeback",
+        "imageurl": "https://i.pinimg.com/originals/d2/14/2b/d2142b2571e286221c86f449c44c3fae.jpg",
+        "price": 40000,
+        "offerprice": 10000
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Tough Dog Names From England for a Bullmastiff",
+        "description": "Looking for a great name for a Bullmastiff? Here are about 70 to choose from, all authentic names from the English countryside where the Bullmastiff works.",
+        "imageurl": "https://i.pinimg.com/originals/23/fb/9f/23fb9f8b036094aba98554355b025711.jpg",
+        "price": 30000,
+        "offerprice": 12000
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Great Gaelic Dog Names for an Irish Wolfhound",
+        "description": "If you are looking for an authentic Irish name, here are some great choices that are easy to pronounce. These names are great for an Irish Wolfhound, Kerry Blue Terrier, Irish Setter, or another dog.",
+        "imageurl": "https://i.pinimg.com/originals/70/f6/27/70f627db89ac3de15918aabe494285a4.jpg",
+        "price": 45000,
+        "offerprice": 15000
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Great Gaelic Dog Names for an Irish Wolfhound",
+        "description": "If you are looking for an authentic Irish name, here are some great choices that are easy to pronounce. These names are great for an Irish Wolfhound, Kerry Blue Terrier, Irish Setter, or another dog.",
+        "imageurl": "https://i.pinimg.com/originals/70/f6/27/70f627db89ac3de15918aabe494285a4.jpg",
+        "price": 45000,
+        "offerprice": 15000
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Strong African Dog Names for a Rhodesian Ridgeback",
+        "description": "Strong African Dog Names for a Rhodesian Ridgeback",
+        "imageurl": "https://i.pinimg.com/originals/d2/14/2b/d2142b2571e286221c86f449c44c3fae.jpg",
+        "price": 40000,
+        "offerprice": 10000
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Great Gaelic Dog Names for an Irish Wolfhound",
+        "description": "If you are looking for an authentic Irish name, here are some great choices that are easy to pronounce. These names are great for an Irish Wolfhound, Kerry Blue Terrier, Irish Setter, or another dog.",
+        "imageurl": "https://i.pinimg.com/originals/70/f6/27/70f627db89ac3de15918aabe494285a4.jpg",
+        "price": 45000,
+        "offerprice": 15000
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Great Gaelic Dog Names for an Irish Wolfhound",
+        "description": "If you are looking for an authentic Irish name, here are some great choices that are easy to pronounce. These names are great for an Irish Wolfhound, Kerry Blue Terrier, Irish Setter, or another dog.",
+        "imageurl": "https://i.pinimg.com/originals/70/f6/27/70f627db89ac3de15918aabe494285a4.jpg",
+        "price": 45000,
+        "offerprice": 15000
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Tough Dog Names From England for a Bullmastiff",
+        "description": "Looking for a great name for a Bullmastiff? Here are about 70 to choose from, all authentic names from the English countryside where the Bullmastiff works.",
+        "imageurl": "https://i.pinimg.com/originals/23/fb/9f/23fb9f8b036094aba98554355b025711.jpg",
+        "price": 30000,
+        "offerprice": 12000
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Strong African Dog Names for a Rhodesian Ridgeback",
+        "description": "Strong African Dog Names for a Rhodesian Ridgeback",
+        "imageurl": "https://i.pinimg.com/originals/d2/14/2b/d2142b2571e286221c86f449c44c3fae.jpg",
+        "price": 40000,
+        "offerprice": 10000
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Great Gaelic Dog Names for an Irish Wolfhound",
+        "description": "If you are looking for an authentic Irish name, here are some great choices that are easy to pronounce. These names are great for an Irish Wolfhound, Kerry Blue Terrier, Irish Setter, or another dog.",
+        "imageurl": "https://i.pinimg.com/originals/70/f6/27/70f627db89ac3de15918aabe494285a4.jpg",
+        "price": 45000,
+        "offerprice": 15000
+      },
+      "id": 11
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Tough Dog Names From England for a Bullmastiff",
+        "description": "Looking for a great name for a Bullmastiff? Here are about 70 to choose from, all authentic names from the English countryside where the Bullmastiff works.",
+        "imageurl": "https://i.pinimg.com/originals/23/fb/9f/23fb9f8b036094aba98554355b025711.jpg",
+        "price": 30000,
+        "offerprice": 12000
+      },
+      "id": 12
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
